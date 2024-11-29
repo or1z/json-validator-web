@@ -27,7 +27,7 @@ This is a simple web application built using Python (Flask) and HTML/CSS. It all
 
 3. Run the Python application:
     ```bash
-    python json-validator-web.py
+    python JsonValidator.py
     ```
 
 4. The application will automatically open your default browser with the local server (usually at `http://127.0.0.1:5000/`).
